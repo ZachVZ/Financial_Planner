@@ -1,5 +1,8 @@
 # Financial_Planner
-This notebook contains two financial tools to help customers budget. 1) To determine the customers required emergency fund amount and if their current portfolio is sufficient to cover an emergency 2) Running a Monte Carlo simulation on the customers investment portfolio to forecast the upper and lower 95% probability of their portfolio in 10 years and 30 years.
+This notebook contains two financial tools to help customers budget.
+1) To determine the customers required emergency fund amount and if their current portfolio is sufficient to cover an emergency.
+2) Running a Monte Carlo simulation on the customers investment portfolio to forecast the upper and lower 95% probability of their portfolio in 10 years and 30 years.
+
 Below are the three analysis that will be performed in this notebook: 
 1. Evaluate the Cryptocurrency Wallet by Using the Requests Library
 2. Evaluate the Stock and Bond Holdings by Using the Alpaca SDK
@@ -15,21 +18,23 @@ Below are the three analysis that will be performed in this notebook:
 
 ## Install python dotenv Library
 * On the terminal (Git Bash) under the conda dev environment, type the code below:
+
 pip install python-dotenv
 
 ## Install Alpaca SDK
 * On the terminal (Git Bash) under the conda dev environment, type the code below:
+
 pip install alpaca-trade-api
 
 ## Install Request Library
 * On the terminal (Git Bash) under the conda dev environment, type the code below:
+
 conda install -c anaconda requests
 
 ## Install JSON Libary
 * On the terminal (Git Bash) under the conda dev environment, type the code below:
+
 conda install -c jmcmurray json
-
-
 
 ## Installation Guide and Running Jupyter Notebook
 Installing Jupyter notebook
